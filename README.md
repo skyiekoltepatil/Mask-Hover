@@ -10,7 +10,7 @@ An interactive canvas-based image reveal effect using JavaScript and HTML5 Canva
 
 ## Preview
 
-<video src="Parkerhover%20demo.mov" controls="controls" muted="muted" playsinline="playsinline" style="max-width: 100%;"></video>
+<video src="demo.mp4" controls="controls" muted="muted" playsinline="playsinline" style="max-width: 100%;"></video>
 
 ## Usage
 
